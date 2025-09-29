@@ -64,7 +64,11 @@ Run Step 3 (Absorption Energies).ipynb to:
 - Visualisations (plots, trajectory animations).
 
 # References
-
+Kohn, W., & Sham, L. J. (1965). Self-consistent equations including exchange and correlation effects. Phys. Rev.
+Giannozzi, P. et al. (2009). QUANTUM ESPRESSO: a modular and open-source software project for quantum simulations. J. Phys.: Condens. Matter.
+Hjorth Larsen, A. et al. (2017). The Atomic Simulation Environment—a Python library for working with atoms. J. Phys.: Condens. Matter.
+Duan, Z. et al. (2012). Density functional theory study of ammonia decomposition on transition metal surfaces. J. Catal.
+Orio, M. et al. (2009). Density functional theory and catalysis. Coord. Chem. Rev.
 
 # License
 
